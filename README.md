@@ -35,3 +35,6 @@ I worked through three main stages to complete this project:
 - **Libraries/Frameworks**: Pandas, Matplotlib, Seaborn
 - **Tools**: Jupyter Notebook, Git, GitHub
 
+## Visualization
+
+https://public.tableau.com/app/profile/dmitrii7307/viz/Tableau_sales_17448347182010/AnnualRevenue
